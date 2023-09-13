@@ -1,42 +1,34 @@
-# projecteurs + miroir sphérique
-Lorsqu'on combine un projector avec un miroir sphérique, il est possible d'avoir un effet intéressant dans la pièce au complet.
-![possible projection](media/theoretical_projection.jpg)
-##### Simulation d'une projection
-###### Source: Paul Bourke, https://paulbourke.net/dome/mirrorbox/
-Évidemment, cette méthode n'est pas parfaite pour créer une projection dans la salle au complet mais c'est parmis ceux que j'ai trouver les plus intéressantes et les moins chers.
-
-![wide](media/wide2s.jpg)
-##### Salle illuminé par cette méthode.
-###### Source: Paul Bourke, https://paulbourke.net/dome/mirrorbox/
+# Environnements immersifs (sans VR)
+Lorsqu'on combine des projecteurs, des lumières et des hauts-parleurs (et possiblement autres installations), il est possible d'avoir un environnement réaliste qui immerse l'utilisateur.
+![vitamine](media/pres2/vitamineimmersive.jpg)
+##### Oasis Immersion, Vitamine Immersive
+###### Source: Oasis Immersion, https://oasis.im/en/vitamine-immersive/
 
 ## R&D
-Pour avoir un effet comme dans cette image, il y a deux éléments importants qu'il faut avoir en premier.
+Dans une installation de ce genre, il y a plusieurs éléments qu'il faut considérer.
 
-1. L'installation
-L'installation est relativement simple, puisque c'est un miroir courbé et un projecteur.
+1. La pièce
+J'ai observé que les grosses installations sont très souvent dans le noir. J'assume que il y a plusieurs raisons pour ceci, tel que cacher ce qu'on peut voir afin de faire concentrer les utilisateurs sur les autres sens, comme le sens de l'écoute.
 
-![projector](media/riggings.jpg)
-##### Projecteur et miroir.
-###### Source: Paul Bourke, https://paulbourke.net/dome/mirrorbox/
+![fish](media/pres2/danceofkoi.jpg)
+##### fish fish fish fish fish fish fish fish
+###### Source: teamLab, https://www.teamlab.art/w/koi_and_people/#modal-1
 
-2. L'image
-L'image est la partie plus difficile, puisqu'il y a des manipulations complexes à faire.
+2. Un bon mélange des éléments
+Un bon mélange entre le son et les visuels est important pour cacher la réalité.
 
-![projector](media/persp1_s.jpg)
-##### Image de base d'exemple.
-###### Source: Paul Bourke, https://paulbourke.net/dome/mirrorbox/
+![sweetfolie](media/pres2/sweetfollie.jpg)
+##### Sweet Folie
+###### Source: Oasis Immersion, https://oasis.im/en/sweet-folie/
 
-![projector](media/persp2_s.jpg)
-##### Image de base d'exemple avec la déformation.
-###### Source: Paul Bourke, https://paulbourke.net/dome/mirrorbox/
+![sweetfolie](media/pres2/charivari.jpg)
+##### Charivari
+###### Source: Oasis Immersion, https://oasis.im/en/sweet-folie/
 
-![projector](media/persp4_s.jpg)
-##### Image d'exemple avec un lieu.
-###### Source: Paul Bourke, https://paulbourke.net/dome/mirrorbox/
+![sweetfolie](media/pres2/bingobango.jpg)
+##### Bingo Bango
+###### Source: Oasis Immersion, https://oasis.im/en/sweet-folie/
 
-![projector](media/persp5_s.jpg)
-##### Image d'exemple d'un lieu avec la déformation.
-###### Source: Paul Bourke, https://paulbourke.net/dome/mirrorbox/
 
-# application de cette méthode
-Avec cette installation, il est possible d'illuminer et utiliser l'entiereté de la surface, notamment la salle d'enregistrement dans le petit studio et le cyclorama au complet pour montrer quelque chose, que ce soit une vidéo ou des images. Notamment, il est possible de changer l'environnement dans lequel se trouve actuellement l'utilisateur, par exemple, l'utilisateur se retrouve dans une forêt et après avoir fait quelque chose, il se retrouve dans le désert.
+# application de cette théorie
+Selon moi, un des endroits idéals pour une installation immersive de même est le cyclorama dans le grand studio puisque c'est une grande "pièce" blanche. Ce qu'on a imaginé est de donner à l'utilisateur l'option de changer cet environnement comme il le souhaite (changer le ciel, le fond, le plancher, etc), contrairement aux examples montrés en haut, qui sont "statiques".
