@@ -8,7 +8,7 @@ Lorsqu'on combine des projecteurs, des lumières et des hauts-parleurs (et possi
 Dans une installation de ce genre, il y a plusieurs éléments qu'il faut considérer.
 
 1. La pièce
-J'ai observé que les grosses installations sont très souvent dans le noir. J'assume que il y a plusieurs raisons pour ceci, tel que cacher ce qu'on peut voir afin de faire concentrer les utilisateurs sur les autres sens, comme le sens de l'écoute.
+J'ai observé que les grosses installations sont très souvent dans le noir. J'assume que il y a plusieurs raisons pour ceci, tel que cacher ce qu'on peut voir afin de faire concentrer les utilisateurs sur les autres sens, comme le sens de l'écoute. (Et aussi parce que des projecteurs fonctionne mieux dans le noir⚰)
 
 ![fish](media/pres2/danceofkoi.jpg)
 ##### fish fish fish fish fish fish fish fish
