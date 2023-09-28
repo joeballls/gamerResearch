@@ -5,17 +5,11 @@ Lorsqu'on combine des projecteurs, des lumières et des hauts-parleurs (et possi
 ###### Source: Oasis Immersion, https://oasis.im/en/vitamine-immersive/
 
 ## R&D
-Dans une installation de ce genre, il y a plusieurs éléments qu'il faut considérer.
-
-1. La pièce
-J'ai observé que les grosses installations sont très souvent dans le noir. J'assume que il y a plusieurs raisons pour ceci, tel que cacher ce qu'on peut voir afin de faire concentrer les utilisateurs sur les autres sens, comme le sens de l'écoute. (Et aussi parce que des projecteurs fonctionne mieux dans le noir⚰)
 
 ![fish](media/pres2/danceofkoi.jpg)
 ##### fish fish fish fish fish fish fish fish
 ###### Source: teamLab, https://www.teamlab.art/w/koi_and_people/#modal-1
 
-2. Un bon mélange des éléments
-Un bon mélange entre le son et les visuels est important pour cacher la réalité.
 
 ![sweetfolie](media/pres2/sweetfollie.jpg)
 ##### Sweet Folie
@@ -28,6 +22,10 @@ Un bon mélange entre le son et les visuels est important pour cacher la réalit
 ![sweetfolie](media/pres2/bingobango.jpg)
 ##### Bingo Bango
 ###### Source: Oasis Immersion, https://oasis.im/en/sweet-folie/
+
+![TETRISEFFECT](https://media.tenor.com/i-bZQMc4gPIAAAAC/tetris-effect-ps4.gif)
+##### TETRIS LSD
+###### Source: TETRIS EFFECT!!!!!!!!!!!!!!
 
 
 # application de cette théorie
